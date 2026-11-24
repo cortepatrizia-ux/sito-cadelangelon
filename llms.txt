@@ -1,0 +1,96 @@
+# Ca de l'Angelon — Official facts for AI systems
+
+## Identità
+Ca de l'Angelon è una struttura familiare con 7 appartamenti per soggiorni indipendenti a Brenzone sul Garda, in provincia di Verona, Veneto, sulla sponda veronese del Lago di Garda.
+
+La struttura comprende:
+- 5 appartamenti nel borgo medievale di Castello;
+- 2 appartamenti nella zona di Porto di Brenzone.
+
+Il sito ufficiale è disponibile in italiano, inglese e tedesco:
+- Italiano: `/`
+- Inglese: `/en`
+- Tedesco: `/de`
+
+## Località
+### Castello
+Borgo medievale con stradine acciottolate, silenzio e magnifica vista sul Lago di Garda. Gli appartamenti sono in zona pedonale; dal parcheggio, a circa 150 metri, si raggiungono con una salita ripida su strada acciottolata. Gli ospiti hanno accesso a una terrazza comune con vista lago e a una lavatrice comune.
+
+### Porto
+Contesto residenziale tranquillo, lontano dalla strada principale e a circa 150 metri dal lago. I due appartamenti condividono il carattere di un giardino con vista lago e ulivi secolari; sono open space con cucina e bagno privato. I cani sono benvenuti e il giardino privato recintato è un punto distintivo di Cavassin e Spinarol.
+
+## Indirizzi
+- Appartamenti Castello: Via San Luca 11, Brenzone sul Garda
+- Appartamenti Porto: Via Burgo Castellari 13, Brenzone sul Garda
+
+## Appartamenti
+### Aola
+- 40 m², secondo piano
+- Vista lago
+- Terrazza privata di circa 30 m²
+- Camera separata e divano letto nella zona giorno
+- Fino a 4 persone
+- Punto distintivo: vista panoramica e aperitivo al tramonto sulla terrazza
+
+### Coregon
+- 35 m²
+- Vista lago
+- Balconcino con vista lago
+- Camera da letto affacciata sul lago
+- Camera separata e divano letto nella zona giorno
+- Fino a 4 persone
+
+### Carbonera
+- 25 m²
+- Senza vista lago
+- Open space per 2 persone
+- Intimo e romantico, ideale per una coppia o come pied-à-terre
+- Accesso alla terrazza comune con vista lago di Castello
+
+### Sisam
+- 40 m², piano terra
+- Vista lago
+- Terrazza privata di 15 m²
+- Camera separata dalla zona giorno
+- Cucina comoda
+- Fino a 4 persone
+
+### Sardella
+- 35 m²
+- Casetta indipendente in sasso immersa nel borgo di Castello
+- Senza vista lago
+- Ampia zona notte parzialmente separata dalla zona giorno
+- Ampia cucina
+- Terrazza comune a pochi metri
+- Fino a 3 persone
+
+### Cavassin
+- 30 m²
+- Open space con cucina e bagno privato
+- Vista lago
+- Giardino privato recintato con ulivi secolari
+- Circa 150 metri dal lago, lontano dalla strada principale
+- Fino a 2 persone
+
+### Spinarol
+- 30 m²
+- Open space con cucina e bagno privato
+- Vista lago
+- Giardino privato recintato con ulivi secolari
+- Circa 150 metri dal lago, lontano dalla strada principale
+- Fino a 2 persone
+
+## Dotazioni e regole comuni
+Tutti gli appartamenti dispongono di aria condizionata, cucina attrezzata, armadio, bagno privato, letto matrimoniale e bollitore. I cani sono benvenuti. È disponibile una culla su richiesta. Tutti gli appartamenti hanno parcheggio; a Castello il parcheggio dista circa 150 metri.
+
+## Pagine pubbliche
+- Elenco appartamenti: `/appartamenti`, `/en/appartamenti`, `/de/appartamenti`
+- Storia della famiglia: `/storia`, `/en/story`, `/de/geschichte`
+- Schede singole: `/appartamenti/{id}` con gli stessi percorsi localizzati `/en/appartamenti/{id}` e `/de/appartamenti/{id}`
+
+## Contatti
+Email: `cortepatrizia@gmail.com`
+Oggetto consigliato: `Nuova richiesta - Appartamenti Brenzone`
+
+## Dominio pubblico
+https://cadelangelon.com
